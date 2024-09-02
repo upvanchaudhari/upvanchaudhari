@@ -15,7 +15,7 @@
   <img src="https://profile-counter.glitch.me/upvanchaudhri/count.svg" />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=upvanchaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="upvanchaudhari" /> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=upvanchaudhari&label=Profile%20views&color=0e75b6&style=flat]https://camo.githubusercontent.com/44f4e6acb3fbe67838a7efd620603c803af03294686c855ba4b516ba11f72534/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d636861796468617269757076616e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="upvanchaudhari"  data-canonical-src="https://komarev.com/ghpvc/?username=chaydhariupvan&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 
 <img alt="Coder" align="right" width="400"
