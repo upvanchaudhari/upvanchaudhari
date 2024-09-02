@@ -1,3 +1,9 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=450&height=70&lines=Hello%2C+There!+%F0%9F%91%8B">
+  </a>
+</h1>
+
 <h1 align="center">Hi 👋, I'm Chaudhari Upvan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -46,7 +52,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> 
           <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-          <img src="https://en.wikipedia.org/wiki/Adobe_Photoshop#/media/File:Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
           <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"/> </a> 
    
