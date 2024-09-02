@@ -41,13 +41,13 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-sumra&" alt="sahil-sumra" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upvanchaudhari&" alt="upvanchaudhari" /></p>
 
 
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-sumra&show_icons=true&locale=en" alt="sahil-sumra" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upvanchaudhari&show_icons=true&locale=en" alt="upvanchaudhari" /> </p>
 
 
 
@@ -58,4 +58,4 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-sumra&show_icons=true&locale=en&layout=compact" alt="sahil-sumra" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=upvanchaudhari&show_icons=true&locale=en&layout=compact" alt="upvanchaudhari" /></p>
