@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chaudhari Upvan</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<img  src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
-
+<img alt="Coder" align="right" width="400"
+     src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRkYjEyNmYxZGMxNDljOTQ1YzFlZjI1YjU0Yzc3OGFjMDEyNmU5OSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
+     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chaydhariupvan&label=Profile%20views&color=0e75b6&style=flat" alt="chaydhariupvan" /> </p>
 
 - 🔭 I’m currently working on **Python Project**
