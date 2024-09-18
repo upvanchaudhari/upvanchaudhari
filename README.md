@@ -37,7 +37,7 @@
 
 - 📫 How to reach me **chaudharyupvan@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/upvanchaudhari/portfolio/blob/main/assets/resume-example.pdf](https://github.com/upvanchaudhari/portfolio/blob/main/assets/resume-example.pdf)
+- 📄 Know about me [https://github.com/upvanchaudhari/portfolio/blob/main/assets/resume-example.pdf](https://github.com/upvanchaudhari/portfolio/blob/main/assets/resume-example.pdf)
 
 - ⚡ Fun fact **My favourite animal is a dog because they're so energetic and friendly.**
 
