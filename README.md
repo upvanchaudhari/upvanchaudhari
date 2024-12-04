@@ -33,7 +33,7 @@
 
 - 👨‍💻 All of my projects are available at [https://upvanchaudhari.github.io/portfolio/](https://upvanchaudhari.github.io/portfolio/)
 
-- 💬 Ask me about **HTML,CSS,JS,...**
+- 💬 Ask me about **HTML,CSS,JS,Sql...**
 
 - 📫 How to reach me **chaudharyupvan@gmail.com**
 
