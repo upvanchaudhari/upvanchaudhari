@@ -31,7 +31,7 @@
 
 - 🌱 I’m currently learning **new lessons**
 
-- 👨‍💻 All of my projects are available at [https://upvanchaudhari.github.io/portfolio/](https://upvanchaudhari.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://upvanchaudhari.github.io/portfolio/)
 
 - 💬 Ask me about **ABAP, Sql...**
 
