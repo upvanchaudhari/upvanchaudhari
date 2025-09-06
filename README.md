@@ -70,14 +70,6 @@
           <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Adobe_XD_CC_icon.svg" alt="xd" width="40" height="40"/> </a> 
    
 
-</p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=upvanchaudhari&" alt="upvanchaudhari" /></p>
-
-
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=upvanchaudhari&show_icons=true&locale=en" alt="upvanchaudhari" /> </p>
 
 
 
@@ -88,4 +80,3 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=upvanchaudhari&show_icons=true&locale=en&layout=compact" alt="upvanchaudhari" /></p>
